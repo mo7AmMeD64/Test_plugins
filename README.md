@@ -8,7 +8,7 @@ Nuvio local scrapers (JavaScript) for the [Nuvio](https://github.com/nuvio-app/n
 2. Go to **Settings → Plugins → Add new repository**
 3. Paste:
    ```
-   https://raw.githubusercontent.com/mo7AmMeD64/nuvio-plugins/main/manifest.json
+   https://raw.githubusercontent.com/mo7AmMeD64/Test_plugins/main/manifest.json
    ```
 
 ## Plugins
